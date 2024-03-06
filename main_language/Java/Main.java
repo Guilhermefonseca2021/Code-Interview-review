@@ -3,11 +3,11 @@ package Java;
 public class Main {
     public static void main(String[] args) {
       String name = "Jhon";
-      int idade = 18;
-      final int maxIdadeAccepted = 20; // will never change
+      int age = 18;
+      final int maxAgeAccepted = 20; // will never change
       System.out.println(name);
-      System.out.println(idade);
-      System.out.println(maxIdadeAccepted);
+      System.out.println(age);
+      System.out.println(maxAgeAccepted);
     };
 
     public static void readFile(String[] request) {

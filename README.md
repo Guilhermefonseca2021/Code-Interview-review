@@ -2,11 +2,10 @@
 
 - [x] [Basic Java concepts](https://www.w3schools.com/java/java_getstarted.asp)
 - [ ] [Course for non-readers](https://youtu.be/eIrMbAQSU34?si=xHUChOvy77mDuMwV)
-- [ ] [Data Structure](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
+- [x] [Data Structure](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
   - [ ] [Don't Feel confidence enough?](https://youtu.be/0SARbwvhupQ?si=LxAG4L_LmVGl2dcj)
-  - [ ] [To pass 3 hours coding without stop](https://youtu.be/_ITiwPMUzho?si=lvyr4S1eK7-t9ouY)
-- [ ] [How to pass in a big tech](https://www.youtube.com/watch?v=YJZCUhxNCv8&ab_channel=SJTech)
-- [ ] [important know C about how program works ](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
+  - [x] [To pass 3 hours coding without stop](https://youtu.be/YF1eYbfbH5k?si=ESNsc21eeYHRm-d9)
+- [x] [How to pass in a big tech](https://www.youtube.com/watch?v=YJZCUhxNCv8&ab_channel=SJTech)
 
 ## Books List to learn and Videos
 
@@ -15,9 +14,10 @@
   - Understanding C helps you understand how programs and memory work
 - [ ] [(Book) | Algorithms - Sedgewick and Wayne](https://github.com/Mcdonoughd/CS2223/blob/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
 - [ ] [(Book) | Data Structures and Algorithms in Java](https://bedford-computing.co.uk/learning/wp-content/uploads/2016/08/Data-Structures-and-Algorithms-in-Java-6th-Edition.pdf)
-- [ ] [(video) | How does CPU execute program ](https://www.youtube.com/watch?v=vqs_0W-MSB0&ab_channel=Fireship)
-- [ ] [(video) | Machine Code Instructions](https://www.youtube.com/watch?v=Mv2XQgpbTNE&ab_channel=JohnPhilipJones)
-
+- [x] [(video) | How does CPU execute program ](https://www.youtube.com/watch?v=vqs_0W-MSB0&ab_channel=Fireship)
+- [ ] [(video) | Machine Code Instructions](https://www.youtube.com/watch?v=HWpi9n2H3kE&t=569s&ab_channel=The8-BitGuy)
+- [ ] [(video) | Fetch-Execute Code instruction](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=470s&ab_channel=TomScott)
+  
 ### 1. You Won't Remember it All
 
 I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going through my notes and making flashcards so I could review. Read please so you won't make my mistakes:
@@ -30,10 +30,10 @@ To solve the problem, I made a little flashcards site where I could add flashcar
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
-- [ ] [(video) | BigO notation simple Javascript code](https://www.youtube.com/watch?v=itn09C2ZB9Y&ab_channel=WebDevSimplified)
-- [ ] [(video) | Big O Notation - Code Examples](https://www.youtube.com/watch?v=CB8JPjg_3cM&ab_channel=KeepOnCoding)
+- [x] [(video) | BigO notation & time complexity](https://youtu.be/D6xkbGLQesk?si=J7ua6EFclOsRKtpy)
+- [x] [(video) | Big O Notation - Code Examples](https://www.youtube.com/watch?v=CB8JPjg_3cM&ab_channel=KeepOnCoding)
 - [ ] [(Book) | A Gentle Introduction to Algorithm Complexity Analysis](https://discrete.gr/complexity/)
-- [ ] [(video) | Order of growth](https://www.youtube.com/watch?v=l1nKM7by1LY&ab_channel=JohnDeNero)
+- [x] [(video) | Order of growth](https://www.youtube.com/watch?v=l1nKM7by1LY&ab_channel=JohnDeNero)
 - [ ] [(video) | Asymptotics](https://www.youtube.com/watch?v=0oDAlMwTrLo&ab_channel=BackToBackSWE)
 - [ ] [(video) | Amortized analysis](https://youtu.be/6_BBQWQ2HQQ?si=ikfjjBq__1AClAzb)
 - [ ] [(video) | ilustration "Big O"](https://www.youtube.com/watch?v=BgLTDT03QtU&ab_channel=NeetCode)
@@ -41,6 +41,9 @@ To solve the problem, I made a little flashcards site where I could add flashcar
   - [] [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
   - [] [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [(Book) | cheat sheet](https://www.bigocheatsheet.com/)
+
+
+<img width="1567" src="https://github.com/Guilhermefonseca2021/Code-Interview-review/assets/92196697/5bdfe90f-e0c1-4450-b5f9-9a8083355349">
 
 ## Data Structure
 
