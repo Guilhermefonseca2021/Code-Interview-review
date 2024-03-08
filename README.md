@@ -15,8 +15,8 @@
 - [ ] [(Book) | Algorithms - Sedgewick and Wayne](https://github.com/Mcdonoughd/CS2223/blob/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
 - [ ] [(Book) | Data Structures and Algorithms in Java](https://bedford-computing.co.uk/learning/wp-content/uploads/2016/08/Data-Structures-and-Algorithms-in-Java-6th-Edition.pdf)
 - [x] [(video) | How does CPU execute program ](https://www.youtube.com/watch?v=vqs_0W-MSB0&ab_channel=Fireship)
-- [ ] [(video) | Machine Code Instructions](https://www.youtube.com/watch?v=HWpi9n2H3kE&t=569s&ab_channel=The8-BitGuy)
-- [ ] [(video) | Fetch-Execute Code instruction](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=470s&ab_channel=TomScott)
+- [x] [(video) | Machine Code Instructions](https://www.youtube.com/watch?v=HWpi9n2H3kE&t=569s&ab_channel=The8-BitGuy)
+- [x] [(video) | Fetch-Execute Code instruction](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=470s&ab_channel=TomScott)
   
 ### 1. You Won't Remember it All
 
@@ -34,7 +34,7 @@ To solve the problem, I made a little flashcards site where I could add flashcar
 - [x] [(video) | Big O Notation - Code Examples](https://www.youtube.com/watch?v=CB8JPjg_3cM&ab_channel=KeepOnCoding)
 - [ ] [(Book) | A Gentle Introduction to Algorithm Complexity Analysis](https://discrete.gr/complexity/)
 - [x] [(video) | Order of growth](https://www.youtube.com/watch?v=l1nKM7by1LY&ab_channel=JohnDeNero)
-- [ ] [(video) | Asymptotics](https://www.youtube.com/watch?v=0oDAlMwTrLo&ab_channel=BackToBackSWE)
+- [x] [(video) | Asymptotics](https://www.youtube.com/watch?v=0oDAlMwTrLo&ab_channel=BackToBackSWE)
 - [ ] [(video) | Amortized analysis](https://youtu.be/6_BBQWQ2HQQ?si=ikfjjBq__1AClAzb)
 - [ ] [(video) | ilustration "Big O"](https://www.youtube.com/watch?v=BgLTDT03QtU&ab_channel=NeetCode)
 - [ ] TopCoder (includes recurrence relations and master theorem):
