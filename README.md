@@ -55,11 +55,11 @@ Understanding data structures is fundamental for designing efficient algorithms 
 - ### Arrays
 
   - [ ] Description
-    - [array explanation](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-    - [Single and multi-dimensional array](https://www.youtube.com/watch?v=1FZD8W6rzNQ&ab_channel=ScholarHat)
-    - [Dinamic Array](https://youtu.be/Ij7NQ-0mIVA?si=vTPsaGFp4AMc2ErM)
-    - [Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
-    - [Resizing array](https://youtu.be/I1kAg6cwNNQ?si=M7xZRgJOnCAIKQST)
+    - [x][array explanation](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+    - [x][Single and multi-dimensional array](https://www.youtube.com/watch?v=1FZD8W6rzNQ&ab_channel=ScholarHat)
+    - [x][Dinamic Array](https://youtu.be/Ij7NQ-0mIVA?si=vTPsaGFp4AMc2ErM)
+    - [ ][Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
+    - [ ][Resizing array](https://www.youtube.com/watch?v=6c1nCsbwUEk&ab_channel=JacobSorber)
     - [ ] Implement a vector (mutable array with automatic resizing):
       - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
       - [ ] new raw data array with allocated memory
