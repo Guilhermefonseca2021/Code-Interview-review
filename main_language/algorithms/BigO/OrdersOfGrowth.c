@@ -10,7 +10,7 @@ def overlap(a, b) {
     return count
 }
 
-// to compute this rsult overlap compares all pairs.
+// to compute this result overlap compares all pairs.
 overlap([3, 5, 7, 6], [4, 5, 6, 7])
 
 

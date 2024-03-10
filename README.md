@@ -4,9 +4,10 @@
 - [ ] [Course for non-readers](https://youtu.be/eIrMbAQSU34?si=xHUChOvy77mDuMwV)
 - [x] [Data Structure](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
   - [ ] [Don't Feel confidence enough?](https://youtu.be/0SARbwvhupQ?si=LxAG4L_LmVGl2dcj)
+  - [ ] [CS50 lecture by marking suckerberg](https://www.youtube.com/watch?v=xFFs9UgOAlE&ab_channel=CS50)
   - [x] [To pass 3 hours coding without stop](https://youtu.be/YF1eYbfbH5k?si=ESNsc21eeYHRm-d9)
 - [x] [How to pass in a big tech](https://www.youtube.com/watch?v=YJZCUhxNCv8&ab_channel=SJTech)
-
+  
 ## Books List to learn and Videos
 
 - [ ] [(Book) | Learn C is a Prerequisite](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
@@ -40,10 +41,10 @@ To solve the problem, I made a little flashcards site where I could add flashcar
 - [ ] TopCoder (includes recurrence relations and master theorem):
   - [] [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
   - [] [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [(Book) | cheat sheet](https://www.bigocheatsheet.com/)
+- [ ] [(Book) | cheat sheet algorithms](https://www.bigocheatsheet.com/)
 
 
-<img width="1567" src="https://github.com/Guilhermefonseca2021/Code-Interview-review/assets/92196697/5bdfe90f-e0c1-4450-b5f9-9a8083355349">
+<img width="1567" src="https://github.com/Guilhermefonseca2021/Code-Interview-review/assets/92196697/91395136-ad04-476d-9766-a9e1cea1c956">
 
 ## Data Structure
 
@@ -56,7 +57,6 @@ Understanding data structures is fundamental for designing efficient algorithms 
   - [ ] Description
     - [array explanation](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
     - [Single and multi-dimensional array](https://www.youtube.com/watch?v=1FZD8W6rzNQ&ab_channel=ScholarHat)
-    - [Multi dimensional](https://youtu.be/36z4qgN3GWw?si=eRPjgeVbyuoULqge)
     - [Dinamic Array](https://youtu.be/Ij7NQ-0mIVA?si=vTPsaGFp4AMc2ErM)
     - [Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
     - [Resizing array](https://youtu.be/I1kAg6cwNNQ?si=M7xZRgJOnCAIKQST)
