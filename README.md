@@ -5,6 +5,7 @@
 - [x] [Data Structure](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
   - [ ] [Don't Feel confidence enough?](https://youtu.be/0SARbwvhupQ?si=LxAG4L_LmVGl2dcj)
   - [ ] [CS50 lecture by marking suckerberg](https://www.youtube.com/watch?v=xFFs9UgOAlE&ab_channel=CS50)
+  - [ ] [10 years of coding in 13 minutes](https://www.youtube.com/watch?v=1fPWr0d5zBE&ab_channel=JomaTech)
   - [x] [To pass 3 hours coding without stop](https://youtu.be/YF1eYbfbH5k?si=ESNsc21eeYHRm-d9)
 - [x] [How to pass in a big tech](https://www.youtube.com/watch?v=YJZCUhxNCv8&ab_channel=SJTech)
   
@@ -55,11 +56,11 @@ Understanding data structures is fundamental for designing efficient algorithms 
 - ### Arrays
 
   - [ ] Description
-    - [x][array explanation](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
-    - [x][Single and multi-dimensional array](https://www.youtube.com/watch?v=1FZD8W6rzNQ&ab_channel=ScholarHat)
-    - [x][Dinamic Array](https://youtu.be/Ij7NQ-0mIVA?si=vTPsaGFp4AMc2ErM)
-    - [ ][Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
-    - [ ][Resizing array](https://www.youtube.com/watch?v=6c1nCsbwUEk&ab_channel=JacobSorber)
+    - [x] [array explanation](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+    - [x] [Single and multi-dimensional array](https://www.youtube.com/watch?v=1FZD8W6rzNQ&ab_channel=ScholarHat)
+    - [x] [Dinamic Array](https://youtu.be/Ij7NQ-0mIVA?si=vTPsaGFp4AMc2ErM)
+    - [ ] [Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
+    - [ ] [Resizing array](https://www.youtube.com/watch?v=CCLPUWyVg2A&t=12s&ab_channel=DineshVaryani)
     - [ ] Implement a vector (mutable array with automatic resizing):
       - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
       - [ ] new raw data array with allocated memory

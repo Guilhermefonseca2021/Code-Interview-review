@@ -5,16 +5,27 @@ package Array;
 
 public class ResizingArray {
     // need copy the whole array to a new.
-    private static void  resize(int[] array, int oldSize, int amount ) {
-        int new_size = oldSize + amount;
-        int[] newArray = new int[new_size];
-
+    private static void  printArray(int[] arr) {
+        int n = arr.length;
+        for(int i = 0; i < n; i++) {
+            System.out.println(arr[i] + " ");
+        }
     }
-    public static void resizingArrayStackOfStrings(String[] args) {
-        int arraySize = 50;
-        System.out.println(arraySize);
-        int[] myArray = new int[arraySize];
-    // inserting first N items takes times proportional to 1 + 2 +... + N
-        resize(myArray, 50, 100);
+    // after created array we can´t really resize this array to this capacity.
+    public static void resize(int[] arr, int capacity) {
+        // what we really do is create a tempory array.
+        int[] temp = new int[capacity];
+        for(int i = 0; i < arr.length; i++) {
+            // we iterate every element of our original array.
+            // take index simply copy the value from our original array.
+            temp[i] = arr[i];
+        }
+        // our original array variable will point to this temporary array.
+        arr = temp;
+    }
+    public static void main(String[] args) {
+        ArrayUtil arrUtil = new ArrayUtil();
+        arrUtil.printArray(new int[] { 5, 1, 2, 9, 10 });
+
     }
 }
