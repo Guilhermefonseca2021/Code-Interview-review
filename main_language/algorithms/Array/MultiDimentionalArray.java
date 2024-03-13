@@ -5,7 +5,7 @@ public class MultiDimentionalArray {
         // declaring multi-dimensional array:
         int[][] marks = new int[2][3];
 
-        // assing multi-dimensional array:
+        // assign multi-dimensional array:
         marks[0][0] = 10;
         marks[0][1] = 20;
         marks[0][2] = 30;

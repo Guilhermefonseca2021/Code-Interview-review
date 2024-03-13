@@ -5,10 +5,12 @@
 - [x] [Data Structure](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
   - [ ] [Don't Feel confidence enough?](https://youtu.be/0SARbwvhupQ?si=LxAG4L_LmVGl2dcj)
   - [ ] [CS50 lecture by marking suckerberg](https://www.youtube.com/watch?v=xFFs9UgOAlE&ab_channel=CS50)
-  - [ ] [10 years of coding in 13 minutes](https://www.youtube.com/watch?v=1fPWr0d5zBE&ab_channel=JomaTech)
+  - [x] [10 years of coding in 13 minutes](https://www.youtube.com/watch?v=1fPWr0d5zBE&ab_channel=JomaTech)
   - [x] [To pass 3 hours coding without stop](https://youtu.be/YF1eYbfbH5k?si=ESNsc21eeYHRm-d9)
 - [x] [How to pass in a big tech](https://www.youtube.com/watch?v=YJZCUhxNCv8&ab_channel=SJTech)
-  
+- [x] [what's really data-science?](https://www.youtube.com/watch?v=xC-c7E5PK0Y&ab_channel=JomaTech)
+
+
 ## Books List to learn and Videos
 
 - [ ] [(Book) | Learn C is a Prerequisite](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
@@ -34,7 +36,7 @@ To solve the problem, I made a little flashcards site where I could add flashcar
 
 - [x] [(video) | BigO notation & time complexity](https://youtu.be/D6xkbGLQesk?si=J7ua6EFclOsRKtpy)
 - [x] [(video) | Big O Notation - Code Examples](https://www.youtube.com/watch?v=CB8JPjg_3cM&ab_channel=KeepOnCoding)
-- [ ] [(Book) | A Gentle Introduction to Algorithm Complexity Analysis](https://discrete.gr/complexity/)
+- [ ] [(read) | A Gentle Introduction to Algorithm Complexity Analysis](https://discrete.gr/complexity/)
 - [x] [(video) | Order of growth](https://www.youtube.com/watch?v=l1nKM7by1LY&ab_channel=JohnDeNero)
 - [x] [(video) | Asymptotics](https://www.youtube.com/watch?v=0oDAlMwTrLo&ab_channel=BackToBackSWE)
 - [ ] [(video) | Amortized analysis](https://youtu.be/6_BBQWQ2HQQ?si=ikfjjBq__1AClAzb)
@@ -42,7 +44,7 @@ To solve the problem, I made a little flashcards site where I could add flashcar
 - [ ] TopCoder (includes recurrence relations and master theorem):
   - [] [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
   - [] [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [(Book) | cheat sheet algorithms](https://www.bigocheatsheet.com/)
+- [ ] [(read) | cheat sheet algorithms](https://www.bigocheatsheet.com/)
 
 
 <img width="1567" src="https://github.com/Guilhermefonseca2021/Code-Interview-review/assets/92196697/91395136-ad04-476d-9766-a9e1cea1c956">
@@ -55,13 +57,13 @@ Understanding data structures is fundamental for designing efficient algorithms 
 
 - ### Arrays
 
-  - [ ] Description
+  - [x] Description
     - [x] [array explanation](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
     - [x] [Single and multi-dimensional array](https://www.youtube.com/watch?v=1FZD8W6rzNQ&ab_channel=ScholarHat)
     - [x] [Dinamic Array](https://youtu.be/Ij7NQ-0mIVA?si=vTPsaGFp4AMc2ErM)
-    - [ ] [Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
-    - [ ] [Resizing array](https://www.youtube.com/watch?v=CCLPUWyVg2A&t=12s&ab_channel=DineshVaryani)
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [x] [Jagged array](https://youtu.be/m-QmN3CjhRk?si=ur24sGHhHImM3GT5)
+    - [x] [Resizing array](https://www.youtube.com/watch?v=CCLPUWyVg2A&t=12s&ab_channel=DineshVaryani)
+  - [ ] Implement a vector (mutable array with automatic resizing):
       - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
       - [ ] new raw data array with allocated memory
         - can allocate int array under the hood, just not use its features
@@ -77,13 +79,13 @@ Understanding data structures is fundamental for designing efficient algorithms 
       - [ ] delete(index) - delete item at index, shifting all trailing elements left
       - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
       - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
-      - [ ] resize(new_capacity) // private function
-        - when you reach capacity, resize to double the size
-        - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
+  - [ ] resize(new_capacity) // private function- 
+      -  when you reach capacity, resize to double the size
+      -  when popping an item, if size is 1/4 of capacity, resize to half
+  - [ ] Time
       - O(1) to add/remove at end (amortized for allocations for more space), index, or update
       - O(n) to insert/remove elsewhere
-    - [ ] Space
+  - [ ] Space
       - contiguous in memory, so proximity helps performance
       - space needed = (array capacity, which is >= n) \* size of item, but even if 2n, still O(n)
 
@@ -92,20 +94,19 @@ Understanding data structures is fundamental for designing efficient algorithms 
 - ### Linked Lists
 
   - [ ] Description:
-    - [ ] [(video) | Singly Linked Lists](https://youtu.be/HB7TcYklBHY?si=smEnPJgwp-XJ9lge)
+    - [ ] [(video) | Singly Linked Lists](https://www.youtube.com/watch?v=HB7TcYklBHY&t=4s&ab_channel=TechWithTim)
     - [ ] [(video) | Linked Lists 1 ](https://youtu.be/N6dOwBde7-M?si=WcPglR-DpCGpbBUj)
-  - [ ] [(video | C Code Node Structes)](https://youtu.be/oKXP1HZ8xIs?si=7r9F868pir9bX6eq)
-  - [ ] [(video | C code memory allocation)](https://youtu.be/1KVpi0VN82E?si=6uuCQIgBIxAMKwzE)
+  - [ ] [(video | C Node Structes)](https://www.youtube.com/watch?v=DneLxrPmmsw&ab_channel=NesoAcademy)
+  - [ ] [(video | C code memory allocation)]()
   - [ ] Linked List vs Arrays:
+    - [(read) | Core Linked Lists Vs Arrays](https://www.geeksforgeeks.org/linked-list-vs-array/)
+    - [(video)| In The Real World Linked Lists Vs Arrays](https://www.youtube.com/watch?v=DyG9S9nAlUM&ab_channel=Computerphile)
 
-    - [(video | Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
-    - [(video | In The Real World Linked Lists Vs Arrays (video)](https://www.youtube.com/watch?v=34ky600VTN0&ab_channel=SimonDev)
-
-  - [ ] [(book) | why you should avoid linked lists (video)](https://youtu.be/cvZArAipOjo?si=iiEOWFyLXeVo8OXx)
+  - [ ] [(video) | why you should avoid linked lists (video)](https://youtu.be/cvZArAipOjo?si=iiEOWFyLXeVo8OXx)
   - [ ] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-    - [(book) | Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
+    - [(read) | Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
   - [ ] implement (I did with tail pointer & without):
     - [ ] size() - returns number of data elements in list
     - [ ] empty() - bool returns true if empty
@@ -122,7 +123,7 @@ Understanding data structures is fundamental for designing efficient algorithms 
     - [ ] reverse() - reverses the list
     - [ ] remove_value(value) - removes the first item in the list with this value
   - [ ] Doubly-linked List
-    - [(video) | Description](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
+    - [(video) | Description](https://www.youtube.com/watch?v=3RzC2NrCO24&ab_channel=TechWithTim)
     - No need to implement
 
 
