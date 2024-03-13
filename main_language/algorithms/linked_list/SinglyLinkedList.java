@@ -1,7 +1,6 @@
 // node  [value, next]
 // sll - [head == add, remove, find, addFirst]
-package linked_list;
-
+package Linked_list;
 
 public class SinglyLinkedList {
     // since we have accesses head node all we need actually to do is keep going from neighbors [head and next] > [] > null
@@ -21,9 +20,14 @@ public class SinglyLinkedList {
         // [7] > [-3] > [1] 
         //  ^         value = s
         //  |         current = head
-        // head       while current != null;
+        // head       while current ! = null;
         //            if current.value == val: 
         //            break
         //            current = current.next
+
+        // to create a node
+        // n = node
+        // n.value = 8 whatever  head is so we can say:
+        // n.next =
     }
 }
