@@ -91,11 +91,11 @@ Understanding data structures is fundamental for designing efficient algorithms 
 
 - ### Linked Lists
 
-  - [ ] Description:
-    - [ ] [(video) | Linked Lists 1 ](https://youtu.be/N6dOwBde7-M?si=WcPglR-DpCGpbBUj)
-    - [ ] [(video) | Singly Linked Lists](https://www.youtube.com/watch?v=HB7TcYklBHY&t=4s&ab_channel=TechWithTim)
-  - [ ] [(video | C Node Structes)](https://www.youtube.com/watch?v=DneLxrPmmsw&ab_channel=NesoAcademy)
-  - [ ] [(video | C code memory allocation)]()
+  - [x] Description:
+    - [x] [(video) | Linked Lists 1 ](https://youtu.be/N6dOwBde7-M?si=WcPglR-DpCGpbBUj)
+    - [x] [(video) | Singly Linked Lists](https://www.youtube.com/watch?v=HB7TcYklBHY&t=4s&ab_channel=TechWithTim)
+  - [ ] [(video) | C Node Structes](https://www.youtube.com/watch?v=DneLxrPmmsw&ab_channel=NesoAcademy)
+  - [ ] [(video  | C code memory allocation)](https://www.youtube.com/watch?v=udfbq4M2Kfc&ab_channel=NesoAcademy)
   - [ ] Linked List vs Arrays:
 
     - [(read) | Core Linked Lists Vs Arrays](https://www.geeksforgeeks.org/linked-list-vs-array/)
