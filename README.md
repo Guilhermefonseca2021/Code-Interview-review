@@ -16,7 +16,7 @@
   - C is everywhere. Books, lectures and videos.
   - Understanding C helps you understand how programs and memory work
 - [ ] [(Book) | Algorithms - Sedgewick and Wayne](https://github.com/Mcdonoughd/CS2223/blob/master/Books/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
-- [ ] [(Book) | Data Structures and Algorithms in Java](https://bedford-computing.co.uk/learning/wp-content/uploads/2016/08/Data-Structures-and-Algorithms-in-Java-6th-Edition.pdf)
+- [ ] [(Book) | Data Structures and Algorithms in Java](https://github.com/shshankar1/ebooks/blob/master/Data%20Structures%20and%20Algorithms%20in%20Java%2C%206th%20Edition.pdf)
 - [x] [(video) | How does CPU execute program ](https://www.youtube.com/watch?v=vqs_0W-MSB0&ab_channel=Fireship)
 - [x] [(video) | Machine Code Instructions](https://www.youtube.com/watch?v=HWpi9n2H3kE&t=569s&ab_channel=The8-BitGuy)
 - [x] [(video) | Fetch-Execute Code instruction](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=470s&ab_channel=TomScott)
